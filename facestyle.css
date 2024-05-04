@@ -1,0 +1,62 @@
+*{
+    text-align: center;
+}
+
+
+h2{
+    color: blue;
+    
+}
+input{
+    width: 250px;
+    padding: 8px;
+    border-radius: 5px;
+    background-color: rgb(253, 243, 239);
+    border: 0;
+}
+.login{
+    width: 250px;
+    padding: 8px;
+    border-radius: 5px;
+    background-color: blue;
+    border: 0;
+    color: aliceblue;
+    font-size: small;
+    
+    
+    
+}
+button{
+    background-color: green;
+    border: 0;
+    color: aliceblue;
+    font-size: small;
+    width: 250px;
+    padding: 8px;
+    cursor: pointer;
+    width: 150px;
+}
+hr{
+    border:0.5px solid grey;
+    width: 100px;
+    display:inline-flex;
+}
+sup{
+    margin:5px;
+}
+a{
+    text-decoration: none;
+    
+}
+ul{
+    list-style: none;
+    display: flex;
+    text-align: center;
+    
+    
+}
+li a{
+    margin: 6px;
+    color: black;
+    
+}
